@@ -9,9 +9,8 @@ price in the list plus the sales tax, which is 6.625%. The sales tax only applie
 
 Examples of user input to run program:
 
-r meat 2.99 false
-a meat 2.99 fals
-e
+r meat 2.99 false \n
+a meat 2.99 false
 P
 R toast 2.99 false
 A toast 4.95 false
