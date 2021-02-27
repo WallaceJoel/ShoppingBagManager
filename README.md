@@ -10,34 +10,66 @@ price in the list plus the sales tax, which is 6.625%. The sales tax only applie
 Examples of user input to run program:
 
 r meat 2.99 false
+
 a meat 2.99 false
+
 P
+
 R toast 2.99 false
+
 A toast 4.95 false
+
 A jam 3.95 false
+
 A jam 3.95 false P
+
 R jam 3.95 false P
+
 Blah blah blah
+
 a meat 2.99 false
+
 A jam 2.59 false
+
 A jam 2.59 false
+
 A jam 2.59 false
+
 A toast 4.95 false
+
 A jam 3.99 false P
+
 R jam 2.59 false P
+
 R toast 4.95 false PcC
+
 R toast 4.95 false
+
 A toast 4.95 false C
+
 A milk 2.5 false
+
 A salmon 5.99 false
+
 A toilet_papers 7.95 true
+
 A kitchen_towels 10 true
+
 A bagels 3.99 false
+
 A garbage_bags 4.59 true
+
 A laundry_detergent 12.99 true pP
+
 A chicken 6.75 false
+
 A pork 4.59 false
+
 A shrimp 13 false
+
 A masks 15.59 true
+
 A sanitizer 2.99 true
+
 A bleach
+
